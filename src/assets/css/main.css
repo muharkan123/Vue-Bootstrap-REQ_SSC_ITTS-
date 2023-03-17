@@ -1,0 +1,36 @@
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+#app{
+    font-family: 'Poppins', sans-serif;
+}
+
+.tomb:hover{
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24), 0 5px 5px 0 rgba(0,0,0,0.19);
+}
+
+.tomb:active{
+    background-color: #e4d7e2;
+}
+
+.press{
+    background-color:#655DBB;
+}
+
+.press:hover{
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24), 0 5px 5px 0 rgba(0,0,0,0.19);
+}
+
+.press:active{
+    background-color: rgb(107, 107, 107);    
+}
+
+.kard{
+    border-radius: 20px;
+}
+
+.poto{
+    border-radius: 20px;
+    padding: 10px;
+}

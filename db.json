@@ -1,0 +1,105 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "nama": "Baju Uniqlo",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "baju-u.jpg",
+      "deskripsi": "Roughneck H149 Navy Sig White Hoodie terbuat dari bahan Cotton fleece yang  nyaman dikenakan, ditambah grafis dari sablon Plastisol, sehingga jaket ini sangat cocok untuk aktivitas indoor maupun outdoor"
+    },
+    {
+      "id": 2,
+      "nama": "Baju Ha Dan EM",
+      "harga": 450000,
+      "is_ready": true,
+      "gambar": "baju-u2.jpg",
+      "deskripsi": "Toko Grosir Outfit Berkualitas & Termurah, kami menyediakan Outfit termurah sejak tahun 2015 Jadi pastinya kami sudah berpengalaman memilih outfit yang terbaik dan berkualitas"
+    },
+    {
+      "id": 3,
+      "nama": "Baju Nai KY",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "baju-u3.jpg",
+      "deskripsi": "PENGEN TAMPIL KEREN TAPI TAKUT MAHAL.PENGEN GAYA DAN KECE DENGAN HARGA MURAH.GA USAH  KHAWATIR phompphiess clothes ADA DENGAN HARGA TERMURAH  DENGAN PRODUK KAMI ANDA PASTI TERPANA"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Sweater Fenjack",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "baju-u.jpg",
+      "deskripsi": "Cuma di FENJACKOFFICIAL belanja SWEATER HARGA MURAH dengan KUALITAS DISTROO !! FENJACKOFFICIAL akan memberikan garansi jika barang yang diterima tidak sesuai, bisa diretur dan uang/dana langsung dikembalikan"
+    },
+    {
+      "id": 2,
+      "nama": "Roughneck H149",
+      "harga": 450000,
+      "is_ready": true,
+      "gambar": "baju-u2.jpg",
+      "deskripsi": "Roughneck H149 Navy Sig White Hoodie terbuat dari bahan Cotton fleece yang  nyaman dikenakan, ditambah grafis dari sablon Plastisol, sehingga jaket ini sangat cocok untuk aktivitas indoor maupun outdoor"
+    },
+    {
+      "id": 3,
+      "nama": "Men Letter Graphic Raglan Sleeve Hoodie",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "baju-u3.jpg",
+      "deskripsi": "Dark Grey Casual Long Sleeve Polyester Letter Pullovers Embellished Slight Stretch Spring/Fall Men Hoodies & Sweatshirts"
+    },
+    {
+      "id": 4,
+      "nama": "Roughneck HZ047",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "baju-u1.jpg",
+      "deskripsi": "Roughneck HZ047 Black Became The Bomb Zipper Hoodie terbuat dari bahan Cotton fleece yang  nyaman dikenakan, ditambah grafis dari sablon Plastisol, sehingga jaket ini sangat cocok untuk aktivitas indoor maupun outdoor."
+    },
+    {
+      "id": 5,
+      "nama": "Roighneck H264",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "baju-u4.jpg",
+      "deskripsi": "Roughneck H264 Sig Color Chalk Black Hoodie terbuat dari bahan Cotton fleece yang  nyaman dikenakan, ditambah grafis dari sablon Plastisol, sehingga jaket ini sangat cocok untuk aktivitas indoor maupun outdoor."
+    },
+    {
+      "id": 6,
+      "nama": "Deathless Empire",
+      "harga": 450000,
+      "is_ready": true,
+      "gambar": "baju-u5.jpg",
+      "deskripsi": "Dengan paduan bahan bahan terbaik dan design yang sangat ORIGINAL sehingga customer merasa nyaman dan semakin percaya diri untuk memakai Original Product dari DEATHLESS EMPIRE"
+    },
+    {
+      "id": 7,
+      "nama": "SWEPO",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "baju-u6.jpg",
+      "deskripsi": "Sweater Hoodie bahan Cotton Fleece gramasi 280GSM. Bagian dalam berbulu dan tebal, Nyaman untuk menahan dingin. SWEPO PUNYA PABRIK SENDIRI (KUALITAS TERBAIK, HARGA PABRIK) 100% GARANSI KEPUASAN"
+    },
+    {
+      "id": 8,
+      "nama": "Kota Sweater",
+      "harga": 300000,
+      "is_ready": true,
+      "gambar": "baju-u7.jpg",
+      "deskripsi": "KOTASWEATER Hoodie Jumper Anime BEST QUALITY WITH THE BEST PRICE ‼️ Unisex ( Bisa Pria & Wanita ) Jangan Lupa Order Dan Rasakan Nyamannya"
+    }
+  ],
+  "pesanans": [
+    {
+      "id": 1,
+      "nama": "Sweater Fenjack",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "baju-u.jpg",
+      "jumlah" : 1,
+      "deskripsi": "Cuma di FENJACKOFFICIAL belanja SWEATER HARGA MURAH dengan KUALITAS DISTROO !! FENJACKOFFICIAL akan memberikan garansi jika barang yang diterima tidak sesuai, bisa diretur dan uang/dana langsung dikembalikan"
+    }
+  ]
+}
